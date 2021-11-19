@@ -1,6 +1,6 @@
 // Script by Pepe
 // 𝙿𝙴𝙿𝙴 𝚂𝙸𝚁 | 𝙳𝙾𝙽'𝚃 𝙲𝙷𝙰𝙽𝙶𝙴 𝙲𝚁𝙴𝙳𝙸𝚃𝚂🙂
-// ©Pepe Bot 
+// ©ajur
 const {
   WAConnection: _WAConnection,
   MessageType,
@@ -133,9 +133,9 @@ nopref = false
 numbernye = '0'
 autoketik = false;
 prefixStatus = true;
-targetpc = "6281804832728"; 
-owner = "6281804832728"; 
-fakeyoi = "Pepe Sir"; 
+targetpc = "6285943175444"; 
+owner = "6285943175444"; 
+fakeyoi = "ajur"; 
 HunterApi = "Ikyy69", 
 xchillds = 'XChillDs' 
 hardi = 'hardianto', 
